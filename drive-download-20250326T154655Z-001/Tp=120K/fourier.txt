@@ -1,0 +1,5 @@
+Frequency	value	D1	D2	D3	D4	D0	Ns	PhC	LPFilter	LS	RS	Tx	number
+MHz     	a.u.	us	us	us	us	ms	scans	1 or 0	Hz	us	us	dB	  
+													
+													
+30,726	498869,056	4,0	8,0	200,0	160,0	1000,0	2000,0	1,0	0,0	37,0	53,0	11,0
