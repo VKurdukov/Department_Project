@@ -1,0 +1,5 @@
+Frequency	value	MaxValue	S/N	D1	D2	D3	D4	D0	Ns	PhC	LPFilter	LS	RS	Tx
+MHz     	a.u.	a.u.	a.u.	us	us	us	us	ms	scans	1 or 0	Hz	us	us	dB
+														
+														
+30,725	1445476,986	385,638	149,023	4,0	8,0	60,0	20,0	2000,0	500,0	1,0	0,0	20,0	80,0	10,3	53

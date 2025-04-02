@@ -78,11 +78,6 @@ data = """
 # Дисперсия: 0.000132
 # Матожидание частоты: 30.724992
 # Дисперсия: 0.000152
-# 80K
-# Матожидание частоты: 30.728895
-# Дисперсия: 0.000130
-# Матожидание частоты: 30.728980
-# Дисперсия: 0.000182
 # 81.7K
 # Матожидание частоты: 30.725429
 # Дисперсия: 0.000143
@@ -187,3 +182,31 @@ plt.legend()
 
 plt.tight_layout()
 plt.show()
+
+#FILE_PATHS = [
+    #r'C:\Users\Владимир\Desktop\Department_Project\Averievite data\300K_R995,1_Omh\Spectra\FFT LV.txt',
+    #r'C:\Users\Владимир\Desktop\Department_Project\Averievite data\Tp=7K\Spectrum\FFT LV.txt',
+    #r'C:\Users\Владимир\Desktop\Department_Project\Averievite data\Tp=9K\Spectra\FFT LV.txt',
+    #r'C:\Users\Владимир\Desktop\Department_Project\Averievite data\Tp=12K\Spectra\FFT LV.txt',
+    #r'C:\Users\Владимир\Desktop\Department_Project\Averievite data\Tp=15K\Spectra\FFT LV.txt',
+    #r'C:\Users\Владимир\Desktop\Department_Project\Averievite data\Tp=17K\Spectra\FFT LV.txt',
+    #r'C:\Users\Владимир\Desktop\Department_Project\Averievite data\Tp=19K\Spectra\FFT LV.txt',
+    #r'C:\Users\Владимир\Desktop\Department_Project\Averievite data\Tp=20K5\Spectra\1p\FFT LV.txt',
+    #r'C:\Users\Владимир\Desktop\Department_Project\Averievite data\Tp=20K5\Spectra\5p\FFT LV.txt',
+    #r'C:\Users\Владимир\Desktop\Department_Project\Averievite data\Tp=22K\Spectra\1p\FFT LV.txt',
+    #r'C:\Users\Владимир\Desktop\Department_Project\Averievite data\Tp=22K\Spectra\3p\FFT LV.txt',
+    #r'C:\Users\Владимир\Desktop\Department_Project\Averievite data\Tp=23K5\Spectra\FFT LV.txt',
+    #r'C:\Users\Владимир\Desktop\Department_Project\Averievite data\Tp=25K5\FFT LV.txt',
+    #r'C:\Users\Владимир\Desktop\Department_Project\Averievite data\Tp=28K\Spectra\FFT LV.txt',
+    #r'C:\Users\Владимир\Desktop\Department_Project\Averievite data\Tp=33K\Spectra\FFT LV.txt',
+    #r'C:\Users\Владимир\Desktop\Department_Project\Averievite data\Tp=40K\Spectra\FFT LV.txt',
+    #r'C:\Users\Владимир\Desktop\Department_Project\Averievite data\Tp=50K\Spectra\FFT LV.txt',
+    #r'C:\Users\Владимир\Desktop\Department_Project\Averievite data\Tp=62K9\Spectra\FFT LV.txt',
+    #r'C:\Users\Владимир\Desktop\Department_Project\Averievite data\Tp=70K2\FFT LV.txt',
+    #r'C:\Users\Владимир\Desktop\Department_Project\Averievite data\Tp=80K\FFT LV.txt',
+    #r'C:\Users\Владимир\Desktop\Department_Project\Averievite data\Tp=81K7\FFT LV.txt',
+    #r'C:\Users\Владимир\Desktop\Department_Project\Averievite data\Tp=100K\Spectra\FFT LV.txt',
+    #r'C:\Users\Владимир\Desktop\Department_Project\Averievite data\Tp=120K\FFT LV.txt',
+    #r'C:\Users\Владимир\Desktop\Department_Project\Averievite data\Tp=150K4\Spectra\FFT LV.txt',
+    #r'C:\Users\Владимир\Desktop\Department_Project\Averievite data\Tp=197K7\Spectra\FFT LV.txt"'
+#]#
